@@ -7,7 +7,7 @@ An online coffee equipment store implemented using PHP, JavaScript, HTML, CSS an
 ## Admin page
 
 This page is to add new products and view the customers' orders.
-In addition, there is a login page, the username: is <strong>admin</strong>, password: is <strong>admin123</strong>.
+In addition, there is a login page, the username: is <strong>admin1</strong>, password: is <strong>admin777</strong>.
 
 
 ## Customer page
@@ -15,4 +15,4 @@ In addition, there is a login page, the username: is <strong>admin</strong>, pas
 This page views the products, product details, quantity, price, and description. Also, the customer can add the products needed to the cart and checkout the order.
 The user should have an account to access this page.
 
-The website is available Here.
+The website is available <a href="https://hashcofffee.online">Here</a>.
