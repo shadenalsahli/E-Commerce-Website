@@ -101,7 +101,7 @@ require_once('config.php');
                                 $firstname = $_POST['username'];
                                 $password= $_POST['password'];
 
-                                if($firstname=='admin' && $password=='admin123') {
+                                if($firstname=='admin1' && $password=='admin777') {
                                   $_SESSION["AdminLoggedin"] = true;
                                 echo "<script> location.href='dashboard.php'; </script>";
                                 exit; } 
