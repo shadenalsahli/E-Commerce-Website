@@ -7,7 +7,7 @@ An online coffee equipment store implemented using PHP, JavaScript, HTML, CSS an
 ## Admin page
 
 This page is to add new products and view the customers' orders.
-In addition, there is a login page, the username: is <strong>admin1</strong>, password: is <strong>admin777</strong>, you can change it.
+In addition, there is a login page; you must set the username and password you need on the code.
 
 
 ## Customer page
