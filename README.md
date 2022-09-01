@@ -1,6 +1,6 @@
 # E-Commerce Website
 
-An online coffee equipment store implemented using PHP, JavaScript, HTML, CSS and phpMyAdmin.
+An online coffee equipment store implemented using PHP, JavaScript, HTML, CSS and phpMyAdmin, <strong>You can view the website live <a href="https://hashcofffee.online">Here</a> !!</strong>
 
 <h3> There are two main pages:</h3> 
 
@@ -56,4 +56,3 @@ The database is uploaded; you should configure the <strong>config.php</strong> b
 </br>
 
 
-*<strong>You can view the website live <a href="https://hashcofffee.online">Here</a>!!</strong>*
