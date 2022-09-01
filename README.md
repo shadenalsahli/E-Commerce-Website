@@ -15,4 +15,11 @@ In addition, there is a login page; you must set the username and password you n
 This page views the products, product details, quantity, price, and description. Also, the customer can add the products needed to the cart and checkout the order.
 The user should have an account to access this page.
 
-The website is available <a href="https://hashcofffee.online">Here</a>.
+## Database
+
+The database is uploaded; you should configure the <strong>config.php</strong> based on your Info. 
+
+</br>
+
+
+*<strong>You can view the website live <a href="https://hashcofffee.online">Here</a>!!</strong>*
